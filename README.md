@@ -1,0 +1,2 @@
+# Quiz-Master
+easy way
